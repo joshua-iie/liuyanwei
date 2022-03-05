@@ -39,7 +39,7 @@
 <h2 id="publications">Publications（<a href="https://scholar.google.com/citations?user=XBQwn9cAAAAJ&hl=en">Google Scholar
 </a>）</h2>
 
-<h2 id="2022">2022</h2>
+<strong>2022</strong><br />
 <ul>
   <li> Yunjian Zhang, <strong>Yanwei Liu</strong>, Jinxia Liu, Jingbo Miao, Antonios Argyriou, Liming Wang, Zhen Xu, 360-Attack: Distortion-Aware Perturbations from Perspective-Views, IEEE/CVF Conference on Computer Vision and Pattern Recognition, 19-24 June 2022, New Orleans, Louisiana. </li>
 
