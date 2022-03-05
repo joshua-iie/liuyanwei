@@ -44,6 +44,7 @@
 <ul>
   <li> Yunjian Zhang, <strong>Yanwei Liu</strong>, Jinxia Liu, Jingbo Miao, Antonios Argyriou, Liming Wang, Zhen Xu, 360-Attack: Distortion-Aware Perturbations from Perspective-Views, IEEE/CVF Conference on Computer Vision and Pattern Recognition, 19-24 June 2022, New Orleans, Louisiana. </li>
 
+   <li> Yunjian Zhang, <strong>Yanwei Liu</strong>, Jinxia Liu, Pengwei Zhan, Liming Wang, Zhen Xu, SP ATTACK: SINGLE-PERSPECTIVE ATTACK FOR GENERATING ADVERSARIAL OMNIDIRECTIONAL IMAGES, 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022), 22-27 May 2022, Singapore. </li>
 </ul>
 
 <p><a href="#Top">↑Top</a></p>
