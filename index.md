@@ -154,13 +154,10 @@
 <li> Guangchao Peng, Yanwei Liu, Yahui Hu, Song Ci, Hui Tang, End-to-End Distortion Optimized Error Control for Real-time Wireless Video Streaming, 2011 IEEE International Workshop on Multimedia Signal Processing,(MMSP2011), Hang Zhou, China, Oct. 17-19, 2011.</li>
 <li> Zongmei Qiao, Xiaoming Li, Yanwei Liu, Debin Zhao, Wen Gao, Fast Disparity Estimation Utilizing Depth Information for Multiview Video Coding, The 2011 IEEE International Symposium on Circuits and Systems (ISCAS2011), Rio de Janeiro, Brazil, May 15-18, 2011.</li>
 <li> Lei Yang, Yifang Qin, Xu Zhou, Hongjia Li, Heng Wang, Yanwei Liu, Hui Tang, Social Relation Based Cache Scheduling Algorithm for Distributed Caching Systems, IEEE Consumer Communications and Networking Conference 2014 (CCNC2014), January 10-13, 2014, Las Vegas, Nevada.</li>
-
-
 </ul>       
     
     
 <p><a href="#Top">↑Top</a></p>
-
 
 <p><strong>更新时间：2022/3/5</strong></p>
 
