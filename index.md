@@ -83,7 +83,7 @@
 <li>Kedong Liu, Yanwei Liu, Jinxia Liu, Antonios Argyriou, Ying Ding, Joint EPC and RAN Caching of Tiled VR Videos for Mobile Networks, the 25th International Conference on MultiMedia Modeling, January 8-11, 2019, Thessaloniki, Greece. [paper]</li>
 </ul>
 
-      <strong>2019</strong><br/> 
+<strong>2018</strong><br/> 
   <ul> 
  <li>Yanwei Liu, Jinxia Liu, Antonios Argyriou, Song Ci, 3DQoE-oriented and Energy-efficient 2D plus Depth based 3D Video Streaming over Centrally-Controlled Networks, IEEE Transactions on Multimedia, Vol.20, Issue 9, pp. 2439-2453, September 2018.</li>
 
