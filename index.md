@@ -45,7 +45,7 @@
 
    <li> Yunjian Zhang, <strong>Yanwei Liu</strong>, Jinxia Liu, Pengwei Zhan, Liming Wang, Zhen Xu, SP ATTACK: SINGLE-PERSPECTIVE ATTACK FOR GENERATING ADVERSARIAL OMNIDIRECTIONAL IMAGES, 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022), 22-27 May 2022, Singapore. </li>
   
- <li> Liang Dai, Wenchao Chen, <strong>Yanwei Liu</strong>, Antonios Argyriou, Chang Liu, Tao Lin, Penghui Wang, Zhen Xu, and Bo Chen, Switching Gaussian Mixture Variational RNN for Anomaly Detection of Diverse CDN Websites, The 41st IEEE International Conference on Computer Communications (INFOCOM 2022), Online, May 2-5, 2022.  </li><ul>
+ <li> Liang Dai, Wenchao Chen, <strong>Yanwei Liu</strong>, Antonios Argyriou, Chang Liu, Tao Lin, Penghui Wang, Zhen Xu, and Bo Chen, Switching Gaussian Mixture Variational RNN for Anomaly Detection of Diverse CDN Websites, The 41st IEEE International Conference on Computer Communications (INFOCOM 2022), Online, May 2-5, 2022.  </li>
   </ul>
   
 <strong>2021</strong><br/> 
