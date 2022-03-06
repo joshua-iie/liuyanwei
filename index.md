@@ -44,6 +44,28 @@
   <li> Yunjian Zhang, <strong>Yanwei Liu</strong>, Jinxia Liu, Jingbo Miao, Antonios Argyriou, Liming Wang, Zhen Xu, 360-Attack: Distortion-Aware Perturbations from Perspective-Views, IEEE/CVF Conference on Computer Vision and Pattern Recognition, 19-24 June 2022, New Orleans, Louisiana. </li>
 
    <li> Yunjian Zhang, <strong>Yanwei Liu</strong>, Jinxia Liu, Pengwei Zhan, Liming Wang, Zhen Xu, SP ATTACK: SINGLE-PERSPECTIVE ATTACK FOR GENERATING ADVERSARIAL OMNIDIRECTIONAL IMAGES, 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022), 22-27 May 2022, Singapore. </li>
+  
+ <li> Liang Dai, Wenchao Chen, <strong>Yanwei Liu</strong>, Antonios Argyriou, Chang Liu, Tao Lin, Penghui Wang, Zhen Xu, and Bo Chen, Switching Gaussian Mixture Variational RNN for Anomaly Detection of Diverse CDN Websites, The 41st IEEE International Conference on Computer Communications (INFOCOM 2022), Online, May 2-5, 2022.  </li>
+  
+<strong>2021</strong><br /> 
+  
+  <li>Jingbo Miao, Yanwei Liu, Jinxia Liu, Antonios Argyriou, Zhen Xu, Yanni Han, Improved Face Detector on Fisheye Images via Spherical-Domain Attention, The 26th IEEE Symposium on Computers and Communications, Athens, Greece, September 5-8, 2021 [paper] </li>
+
+<li>Fengchao Wang, Yanwei Liu, Jinxia Liu, Antonios Argyriou, Liming Wang, Zhen Xu, Output Security for Multi-User Augmented Reality Using Federated Reinforcement Learning, The 26th IEEE Symposium on Computers and Communications, Athens, Greece, September 5-8, 2021 [paper]  </li>
+
+<li>Kedong Liu, Yanwei Liu, Jinxia Liu, Antonios Argyriou, Tile Caching for Scalable VR Video Streaming over 5G Mobile Networks, Journal of Visual Communication and Image Representation, Vol. 79, Article 103210, 2021. [paper]</li>
+
+<li>Y. Liu, J. Liu, A. Argyriou, L. Wang, Z. Xu, Rendering-Aware VR Video Caching over Multi-cell MEC Networks, IEEE Transactions on Vehicular Technology, Vol. 70, No. 3, pp. 2728-2742, March 2021. [PDF preprint]</li>
+
+<li>Z. Deng, Y. Liu, J. Liu, A. Argyriou, Cross-layer DASH-based multipath video streaming over LTE and 802.11ac networks, Multimedia Tools and Applications, 07 February 2021. [paper] </li>
+
+<li>Y. Liu, J. Liu, A. Argyriou, S. Ma, L. Wang, Z. Xu, 360-degree VR Video Watermarking based on Spherical Wavelet Transform, ACM Transactions on Multimedia Computing Communications and Applications, Vol. 17, No. 1, Article 38, April 2021. [paper] </li>
+
+<li>Liang Dai, Tao Lin, Chang Liu, Bo Jiang, Yanwei Liu, Zhen Xu and Zhi-Li Zhang, SDFVAE: Static and Dynamic Factorized VAE for Anomaly Detection of Multivariate CDN KPIs, 30th The Web Conference 2021, April 19-23, 2021, Ljubljana, Slovenia [PDF preprint], [code] </li>
+
+<li>Xueqing Zhang, Yanwei Liu, Jinxia Liu, Antonios Argyriou, Yanni Han, D2D-Assisted Federated Learning in Mobile Edge Computing Networks, IEEE Wireless Communications and Networking Conference, 29 March - 1 April 2021, Nanjing, China [PDF preprint]</li>
+  
+  
 </ul>
 
 <p><a href="#Top">↑Top</a></p>
