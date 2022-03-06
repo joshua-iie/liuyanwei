@@ -13,7 +13,7 @@
 <h1 id="yanwei-liu">刘延伟 (<a href="/index.html">Yanwei Liu</a>)</h1>
 
 <p style="width:970px;">
-    <img src="/name1.jpg" align="right" width="180" hspace="5" vspace="5" />
+    <img src="name1.jpg" align="right" width="180" hspace="5" vspace="5" />
   <h3 style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:
   9.35pt;margin-bottom:.0001pt'><span style='font-weight:normal;mso-bidi-font-weight:
   bold'><!--#include virtual="/Banners/ece.inc"-->Associate Professor<o:p></o:p></span></h3>
