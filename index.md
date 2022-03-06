@@ -92,6 +92,72 @@
  <li> Ying Ding, Yanwei Liu, Jinxia Liu, Kedong Liu, Liming Wang, Zhen Xu, Panoramic Image Saliency Detection by Fusing Visual Frequency Feature and Viewing Behavior Pattern, Pacific-Rim Conference on Multimedia, Hefei, China, Sep. 21-22, 2018.</li>
 </ul>
     
+<strong>2017</strong><br/> 
+  <ul> 
+ <li>Yanwei Liu, Jinxia Liu, Antonios Argyriou, Song Ci, Cross-layer optimized Authentication and Error Control for Wireless 3D Medical Video Streaming over LTE, Journal of Visual Communication and Image Representation, Volume 46, July 2017, Pages 208–218.</li>
+
+<li>Kedong Liu, Yanwei Liu, Jinxia Liu, Antonios Argyriou, Xinghua Yang, Joint Source Encoding and Networking Optimization for Panoramic Video Streaming Over LTE-A Downlink, IEEE GLOBECOM 2017, 4-8 December 2017, Singapore.</li>
+</ul>    
+    
+ 
+ <strong>2016 and older</strong><br/> 
+  <ul> 
+ <li>Pinghua Zhao, Yanwei Liu, Jinxia Liu, Antonios Argyriou, Song Ci, SSIM-based Error-resilient Cross-layer Optimization for Wireless Video Streaming, Elsevier Signal Processing: Image Communication, vol. 40, pp.36-51, 2016 </li>
+<li>  Yanwei Liu, Jinxia Liu, Junping Song, Antonios Argyriou, Scalable 3D Video Streaming over P2P Networks with Playback Length Changeable Chunk Segmentation, Journal of Visual Communication and Image Representation, vol.31, pp.41-53, August 2015.</li>
+<li> Zhenjie Deng, Yanwei Liu, Jinxia Liu, Xu Zhou, Song Ci, QoE-oriented rate allocation for multipath high-definition video streaming over heterogeneous wireless access networks, IEEE Systems Journal, Volume. 11, Issue. 4, pp. 2524 - 2535, Dec. 2017.</li>
+<li>  Ruixiao Yao, Yanwei Liu, Jinxia Liu, Pinghua Zhao, Song Ci, Utility-based H.264/SVC Video Streaming over Multi-Channel Cognitive Radio Networks, IEEE Transactions on Multimedia, Vol. 17, Issue 3, March 2015, pp. 434-449.</li>
+<li>  Yanwei Liu, Jinxia Liu, Song Ci, Ruixiao Yao, Pinghua Zhao, Zunyi Wang,Overview of 3DQoE Assessment and Modeling, Chinese Journal of Electronics, 2015, 43(3): 568-576.
+<li> Pinghua Zhao, Yanwei Liu, Jinxia Liu, Ruixiao Yao, Song Ci, Perceptual Rate-distortion Optimization for H.264/AVC Video Coding from Both Signal and Vision Perspectives, Multimedia Tools and Applications, vol.75,no.5, pp. 2781-2800, 2016</li>
+<li> Jinxia Liu, Yanwei Liu, Honggang Qi, Zunyi Wang, Zengnian Zhang, 3D Video Rendering Adaptation - A Survey, 3D Research Journal, Volume 6, Issue 1, Article 5, 2015, Springer.</li>
+<li> Qian Tan, Yanwei Liu, Yanni Han, Wei An, Song Ci, Hui Tang, A Wireless Traffic QoS Optimization Algorithm based on Fuzzy Measurement, Journal of Communications, vol. 9, no. 10, pp.729-736, 2014.</li>
+<li> Jinxia Liu, Yanwei Liu, Song Ci, Yun Ye, Ruixiao Yao, 3D Visual Experience Oriented Cross-layer Optimized Scalable Texture plus Depth based 3D Video Streaming over Wireless Networks, Journal of Visual Communication and Image Representation, vol.25, issue 5, pp.1209-1221, July 2014.</li>
+<li> 刘金霞，刘延伟，慈松，基于跨层码率适配和差错控制的3D视频无线传输方法，电子学报, 2014年第2期.</li>
+<li> Pinghua Zhao, Yanwei Liu, Jinxia Liu, Song Ci, Ruixiao Yao, SSIM-based Error-resilient Rate-distortion Optimization of H.264/AVC Video Coding for Wireless Streaming, Signal Processing: Image Communication，Volume 29, Issue 3, March 2014, Pages 303–315.</li>
+<li> Yanwei Liu, Song Ci, Hui Tang, Yun Ye, and Jinxia Liu, QoE-oriented 3D Video Transcoding for mobile streaming, ACM Transactions on Multimedia Computing, Communications and Applications (TOMM), 2012, volume 8, Issue 3s, article 42, 20 pages.</li>
+<li> Yanwei Liu, Song Ci, Hui Tang and Yun Ye, Application-adapted Mobile 3D Video Coding and Streaming – A Survey, 3D Research Journal, Volume 3, Issue 1, pp.1-6, 2012, Springer. </li>
+<li> Yanwei Liu, Qingming Huang, Siwei Ma, Debin Zhao, Wen Gao, Song Ci, Hui Tang, A Novel Rate Control Technique for Multiview Video plus Depth based 3D Video Coding, IEEE Transactions on Broadcasting, Vol.57, No.2, pp. 562-571, June 2011.</li>
+<li> Yanwei Liu, Qingming Huang, Siwei Ma, Debin Zhao, Wen Gao, RD-optimized Interactive Streaming of Multiview Video with Multiple Encodings, Journal of Visual Communication and Image Representation, Special issue on Multi-camera Imaging, Coding and Innovative Display, vol.21, no.5-6, pp. 523-532, Jul. 2010.</li>
+<li> Yanwei Liu, Qingming Huang, Siwei Ma, Debin Zhao, Wen Gao, Joint Video/Depth Rate Allocation for 3D Video Coding based on View Synthesis Distortion Model,Signal Processing: Image Communication, vol.24, no.8, pp. 666-681, 2009.</li>
+<li> Yun Ye, Song Ci, Aggelos K. Katsaggelos, Yanwei Liu, Yi Qian, Wireless Video Surveillance: A Survey, IEEE Access Journal, Volume1, 2013, pp.646-660.</li>
+<li> Qian Tan, Wei An, Yanni Han, Yanwei Liu, Song Ci, Fang-Ming Shao, Hui Tang, Energy Harvesting Aware Topology Control with Power Adaptation in Wireless Sensor Networks, Elsevier Ad Hoc Networks, Volume 27, April 2015, Pages 44–56.</li>
+<li> Dimitrios Kosmanos, Antonios Argyriou, Yanwei Liu, Leandros Tassiulas, Song Ci, A Cooperative Protocol for Video Streaming in Dense Small Cell Wireless Relay Networks, Elsevier Signal Processing: Image Communication, Volume 31, February 2015, Pages 151–160.</li>
+<li> Qian Tan, Wei An, Yanni Han, Haiyan Luo, Yanwei Liu, Song Ci, Hui Tang, Achieving energy-neutral data transmission by adjusting transmission power for energy-harvesting wireless sensor networks, Wireless Communications and Mobile Computing, 2016.</li>
+<li> Antonios Argyriou, Melike Erol-Kantarci, Yanwei Liu, Spectrally-Efficient Cooperative Video Delivery in 5G Heterogeneous Wireless Networks, IEEE GLOBECOM 2016 Workshop ET5G: Emerging Technologies for 5G Wireless Cellular Networks.</li>
+<li> Yanwei Liu, Jinxia Liu, Zhen Xu, Song Ci, Choquet Integral based QoS-to-QoE Mapping for Mobile VoD Applications, 2016 IEEE/ACM International Symposium on Quality of Service (IWQoS), June 20-21, Beijing, China</li>
+<li> Zhenjie Deng, Yanwei Liu, Jinxia Liu, Xin Chen, Antonios Argyriou, Zhen Xu, Song Ci, Cross-network and Cross-layer Optimized Video Streaming Over LTE and WCDMA Downlink, The 21th IEEE Symposium on Computers and Communications, June 27-30, 2016, Messina, Italy.</li>
+<li> Pinghua Zhao, Yanwei Liu, Jinxia Liu, Ruixiao Yao, Song Ci, Antonios Argyriou, Transmit Power Aware Cross-Layer Optimization for LTE Uplink Video Streaming, IEEE International Conference on Communications (ICC 2015), London, UK, June 8-12, 2015.</li>
+<li> Antonios Argyriou, Dimitrios Kosmanos, Leandros Tassiulas, Yanwei Liu, Song Ci, Video-Aware Time-Domain Resource Partitioning in Heterogeneous Cellular Networks, IEEE International Conference on Communications (ICC 2015), London, UK, June 8-12, 2015.</li>
+<li> Ruixiao Yao, Yanwei Liu, Jinxia Liu, Pinghua Zhao, Song Ci, Intrinsic Flexibility Exploiting for Scalable Video Streaming over Multi-Channel Wireless Networks, 2014 IEEE Visual Communications and Image Processing (IEEE-VCIP 2014), Valletta, Malta, December 7th-December 10th, 2014.</li>
+<li> Ruixiao Yao, Yanwei Liu, Jinxia Liu, Pinghua Zhao, Song Ci, Hierarchical-Matching based Scalable Video Streaming over Multi-channel Cognitive Radio Networks, Globecom 2014, Auxtiv, TX, USA, Dec.8-12, 2014.</li>
+<li> Pinghua Zhao, Yanwei Liu, Jinxia Liu, Ruixiao Yao, Song Ci, SSIM-Based Cross-Layer Optimized Video Streaming over LTE Downlink, Globecom 2014, Auxtiv, TX, USA, Dec.8-12, 2014.</li>
+<li> Yun Ye, Song Ci, Yanwei Liu, Computation Scalable Disparity Estimation for Delay Sensitive 3D Video Surveillance System, International Conference on Advanced Video and Signal-Based Surveillance 2014, Hana Square, Korea University, Seoul, Korea, Aug 26-29, 2014.</li>
+<li> Qian Tan, Yanwei Liu, Yanni Han, Wei An, Song Ci, Hui Tang, Energy Harvesting Aware Topology Control with Power Adaptation in EHWSNs, IEEE Wireless Communications and Networking Conference, Istanbul, Turkey, April 6-9 2014.</li>
+<li> Junping Song，Yanwei Liu, Jinxia Liu, Song Ci, Yifang Qin, Yang Li, QoE-space based QoE Adaptation algorithm for SVC-P2P video streaming systems, IEEE Consumer Communications and Networking Conference 2014, (CCNC2014), January 10-13, 2014, Las Vegas, Nevada.</li>
+<li> Yanwei Liu, Jinxia Liu, Song Ci, Yun Ye, “Joint video/depth/FEC rate allocation with considering 3D visual saliency for scalable 3D video streaming”, Visual Communications and Image Processing Conference 2013 (VCIP 2013), November 17-20, 2013, Kuching, Sarawak, Malaysia.</li>
+<li> Ruixiao Yao, Yanwei Liu, Jinxia Liu, Pinghua Zhao, Song Ci, Perceptual Experience Oriented Transmission Scheduling for Scalable Video Streaming over Cognitive Radio Networks, Globecom 2013, Atlanta, USA, Dec. 9-13, 2013.</li>
+<li> Yun Ye, Song Ci, Yanwei Liu, Haohong Wang, Aggelos K. Katsaggelos, Binocular Video Object Tracking with Fast Disparity Estimation, International Conference on Advanced Video and Signal-Based Surveillance 2013, Aug 27-30, 2013, Krakow, Poland.</li>
+<li> Junping Song, Yanwei Liu, Jinxia Liu, Song Ci, Xu Zhou, Yan Zhang, A Playback Length Changeable 3D Data Segmentation Algorithm for Scalable 3D Video P2P Streaming System, The 2013 IEEE International Conference on Multimedia and Expo (ICME 2013)</li>
+<li> Yun Ye, Song Ci, Aggelos K. Katsaggelos, Yanwei Liu, A Multi-camera Motion Capture System for Remote Healthcare Monitoring, The 2013 IEEE International Conference on Multimedia and Expo (ICME 2013)</li>
+<li> Pinghua Zhao, Yanwei Liu, Jinxia Liu, Ruixiao Yao, Song Ci, Hui Tang, Low-Complexity Content-Adaptive Lagrange Multiplier Decision for SSIM-Based RD-Optimized Video Coding, in Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS 2013), May 19-23, 2013 , Beijing, China.</li>
+<li>Pinghua Zhao, Yanwei Liu, Ruixiao Yao, Song Ci, Hui Tang, Perceptual Quality Driven Cross-Layer Optimization for Wireless Video Streaming, IEEE Consumer Communications and Networking Conference 2013，(CCNC2013), January 11-14, 2013, Las Vegas, Nevada,</li>
+<li> Yanwei Liu, Song Ci, Jinxia Liu, Yun Ye, Ying Qi, "Integrating Stereoscopic Image Transcoding with Retargeting for Mobile Streaming," Visual Communications and Image Processing Conference 2012 (VCIP 2012), November 27-30, 2012, San Diego, CA, USA.</li>
+<li>  Yanwei Liu, Song Ci, Hui Tang, Yun Ye, A Transcoding Framework with Error-Resilient Video/Depth Rate Allocation for Mobile 3D Video Streaming, IEEE ICC 2012.</li>
+<li> Yun Ye, Song Ci, Yanwei Liu, Dalei Wu, Haohong Wang, and Aggelos K. Katsaggelos, A Wireless Video Surveillance System with An Active Camera, Visual Communications and Image Processing Conference 2012 (VCIP 2012), November 27-30, 2012, San Diego, CA, USA.</li>
+<li> Yun Ye, Song Ci, Yanwei Liu, Hui Tang, Dynamic Video Object Detection with Single PTU Camera, 2011 Visual Communications and Image Processing,(VCIP2011), Tainan, Taiwan, November 6-9, 2011.</li>
+<li> Guangchao Peng, Yanwei Liu, Yahui Hu, Song Ci and Hui Tang Cross-layer based TFRC for Real Time Video Streaming over Wireless-to-wired Networks, 3rd International Conference on Computer and Electrical Engineering, Chengdu, China, November 16-18, 2010.</li>
+<li> Yanwei Liu, Song Ci, Hui Tang, View Synthesis Error Analysis for Selecting the Optimal QP of Depth Map Coding in 3D Video Application, 28th Picture Coding Symposium (PCS 2010), Nagoya, Japan, December 7-10, 2010.</li>
+<li> Yanwei Liu, Guangchao Peng, Yahui Hu, Song Ci, Hui Tang, A Multi-pass VBR Rate Control Method for Video plus Depth based Mobile 3D Video Coding, the 2010 Pacific-Rim Conference on Multimedia, Shanghai, China.</li>
+<li> Yanwei Liu, Siwei Ma, Qingming Huang, Debin Zhao, Wen Gao, Nan Zhang, Compression-Induced Rendering Distortion Analysis for Texture/Depth Rate Allocation in 3D Video Compression, in Proceedings of Data Compression Conference, Snowbird, Utah, USA, pp. 352-361, Mar.16-18, 2009.</li>
+<li> Yanwei Liu, Qingming Huang, Debin Zhao, Wen Gao, Low-delay View Random Access for Multi-view Video Coding, The 2007 IEEE International Symposium on Circuits and Systems （ISCAS）, New Orleans, USA, pp. 997-1000, May.27-30, 2007.</li>
+<li> Yanwei Liu, Qingming Huang, Wen Gao, View Sequence Coding Using Warping-based Image Alignment for Multi-View Video, Asia-Pacific Workshop on Visual Information Processing. Beijing, China, Nov. 2006</li>
+<li> Yanwei Liu, Qingming Huang, Xiangyang Ji, Debin Zhao, Wen Gao, Multi-view Video Coding with Flexible View-Temporal Prediction Structure for Fast Random Access, 7th Pacific-Rim Conference on Multimedia, Hangzhou, China, pp. 564-571, Nov.2-4, 2006.</li>
+<li> Guangchao Peng, Yanwei Liu, Yahui Hu, Song Ci, Hui Tang, End-to-End Distortion Optimized Error Control for Real-time Wireless Video Streaming, 2011 IEEE International Workshop on Multimedia Signal Processing,(MMSP2011), Hang Zhou, China, Oct. 17-19, 2011.</li>
+<li> Zongmei Qiao, Xiaoming Li, Yanwei Liu, Debin Zhao, Wen Gao, Fast Disparity Estimation Utilizing Depth Information for Multiview Video Coding, The 2011 IEEE International Symposium on Circuits and Systems (ISCAS2011), Rio de Janeiro, Brazil, May 15-18, 2011.</li>
+<li> Lei Yang, Yifang Qin, Xu Zhou, Hongjia Li, Heng Wang, Yanwei Liu, Hui Tang, Social Relation Based Cache Scheduling Algorithm for Distributed Caching Systems, IEEE Consumer Communications and Networking Conference 2014 (CCNC2014), January 10-13, 2014, Las Vegas, Nevada.</li>
+
+
+</ul>       
+    
     
 <p><a href="#Top">↑Top</a></p>
 
