@@ -65,8 +65,22 @@
 <li>Liang Dai, Tao Lin, Chang Liu, Bo Jiang, Yanwei Liu, Zhen Xu and Zhi-Li Zhang, SDFVAE: Static and Dynamic Factorized VAE for Anomaly Detection of Multivariate CDN KPIs, 30th The Web Conference 2021, April 19-23, 2021, Ljubljana, Slovenia [PDF preprint], [code] </li>
 
 <li>Xueqing Zhang, Yanwei Liu, Jinxia Liu, Antonios Argyriou, Yanni Han, D2D-Assisted Federated Learning in Mobile Edge Computing Networks, IEEE Wireless Communications and Networking Conference, 29 March - 1 April 2021, Nanjing, China [PDF preprint]</li>
-  
-  
+
+</ul>
+
+ <strong>2020</strong><br/> 
+  <ul> 
+    <li>Yunjian Zhang, Yanwei Liu, Liming Wang, Zhen Xu and Qiuqing Jin,RegionSparse:Leveraging Sparse Coding and Object Localization to Counter Adversarial Attacks, 2020 International Joint Conference on Neural Networks, 19 - 24th July, 2020, Glasgow (UK). [paper]</li>
+</ul>
+    
+    
+  <strong>2010</strong><br/> 
+  <ul> 
+ <li>丁颖，刘延伟, 刘金霞，刘科栋，王利明，徐震，虚拟现实全景图像显著性检测研究进展综述，电子学报, 2019年, Vol. 47 (7): 1575-1583.</li>
+
+<li>Yanwei Liu, Jinxia Liu, Antonios Argyriou, Song Ci, MEC-assisted Panoramic VR Video Streaming over Millimeter Wave Mobile Networks, IEEE Transactions on Multimedia, Vol.21, Issue 5, pp. 1302-1316, May 2019 [paper]</li>
+
+<li>Kedong Liu, Yanwei Liu, Jinxia Liu, Antonios Argyriou, Ying Ding, Joint EPC and RAN Caching of Tiled VR Videos for Mobile Networks, the 25th International Conference on MultiMedia Modeling, January 8-11, 2019, Thessaloniki, Greece. [paper]</li>
 </ul>
 
 <p><a href="#Top">↑Top</a></p>
