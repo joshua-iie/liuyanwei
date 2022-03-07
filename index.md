@@ -6,6 +6,7 @@
     
 
   </head>
+  
   <body>
    <div class="container-lg px-3 my-5 markdown-body">
       
@@ -30,7 +31,7 @@
   Email: &nbsp; <a href="mailto:liuyanwei@iie.ac.cn">liuyanwei@iie.ac.cn</a>&nbsp; <br>
   Phone: (+86)10-82546357&nbsp; <o:p></o:p></span></h3>
 
-  Yanwei Liu received his Ph.D. from the Institue of Computing Technology, Chinese Academy of Sciences in Jan. 2010. His research interests include computer vision, deep learning, AI system security and privacy, multiview/3D video coding and transmission, mobile communication and edge computating, virtual reality, digital twin, and Cyber security.
+Yanwei Liu received his Ph.D. from the Institue of Computing Technology, Chinese Academy of Sciences in Jan. 2010. His research interests include computer vision, deep learning, AI system security and privacy, multiview/3D video coding and transmission, mobile communication and edge computating, virtual reality, digital twin, and Cyber security.
 
 
 <p>——————————————————————————————————————————————————————————————</p>
