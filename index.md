@@ -1,4 +1,4 @@
-<html lang="en-US">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
    
   <body>
    <div class="container-lg px-3 my-5 markdown-body">
