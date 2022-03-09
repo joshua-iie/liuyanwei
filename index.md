@@ -1,7 +1,5 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
    
-  <body>
-   <div class="container-lg px-3 my-5 markdown-body">
    
 <h1 id="yanwei liu">刘延伟 (<a href="index.html">Yanwei Liu</a>)</h1>
 
